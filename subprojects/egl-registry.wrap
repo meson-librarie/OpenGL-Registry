@@ -1,0 +1,4 @@
+[wrap-git]
+directory = egl-registry
+url = https://github.com/meson-librarie/EGL-Registry.git
+revision = head
